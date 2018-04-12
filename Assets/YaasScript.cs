@@ -7,6 +7,7 @@ public class YaasScript : MonoBehaviour {
 	void Start () {
 
 	print("Tickle my sausage");
+	print("Poo");
 	
 	}
 	
